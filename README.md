@@ -1,5 +1,5 @@
-# Storage AP
-SOAP WebService realizado con Spring Boot, Spring-WS. También se utiliza lombok.
+# Country WS
+WebService realizado con Spring Boot, Spring-WS. También se utiliza lombok.
 las clases con las etiquetas JAXB se generan con el plugin Maven jaxb2-maven-plugin 
 y el XSD countries.xml
 
