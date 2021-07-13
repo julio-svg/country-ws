@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:gen="/gen">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <gen:getCountryRequest>
+            <gen:name>España</gen:name>
+        </gen:getCountryRequest>
+    </soapenv:Body>
+</soapenv:Envelope>
